@@ -135,7 +135,7 @@ header-includes:
 
 3.3. Ссылка на репозиторий на Github.
 
-[Ссылка на мой репозиторий](https://github.com/nura1234567/study_2024-2025_arh-pc/blob/master/labs/lab03/report/report.md)
+[Ссылка на мой репозиторий]https://github.com/nura1234567/study_2024-2025_arh-pc/blob/master/labs/lab03/report/report.md
 
 
 
