@@ -17,7 +17,7 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
+
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
@@ -131,7 +131,11 @@ header-includes:
 
 3.2. Представление списка скриншотов для отчета.
 
-![Скриншоты рисунков к отчету](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab03/report/image/image11.jpg){#fig:011 width=30%}
+![Скриншоты рисунков к отчету](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab03/report/image/image11.jpg){#fig:011 width=10%}
+
+3.3. Ссылка на репозиторий на Github.
+
+[Ссылка на мой репозиторий](https://github.com/nura1234567/study_2024-2025_arh-pc/blob/master/labs/lab03/report/report.md)
 
 
 
