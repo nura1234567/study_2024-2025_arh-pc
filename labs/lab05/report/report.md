@@ -88,7 +88,8 @@ header-includes:
 
 ![Окно Midnight Commander. Создание каталога](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab05/report/image/image003.jpg){#fig:003 width=70%}
 
- и перешла в созданный каталог lab05.
+и перешла в созданный каталог lab05.
+ 
 ![Окно Midnight Commander. Переход в каталог](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab05/report/image/image004.jpg){#fig:004 width=70%}
 
 4) Пользуясь строкой ввода и командой touch создала файл lab5-1.asm
@@ -134,6 +135,7 @@ header-includes:
 ![Создание файла lab5-3](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab05/report/image/image016.jpg){#fig:016 width=70%}
 
 2) Создала исполняемый файл lab5-3 и проверила его работу.
+
 ![Проверка программы lab5-3](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab05/report/image/image017.jpg){#fig:017 width=70%}
 
 3) Создала копию файла lab5-2.asm, назвала ее lab5-4.asm. Внесла изменения в программу, так чтобы после приглашения “Введите строку:” строка вводилась с клавиатуры и затем выводилась на экран.
@@ -141,6 +143,7 @@ header-includes:
 ![Создание файла lab5-4](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab05/report/image/image018.jpg){#fig:018 width=70%}
 
 4) Создала исполняемый файл lab5-4 и проверила его работу.
+
 ![Проверка программы lab5-4](/home/sergisa/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab05/report/image/image019.jpg){#fig:019 width=70%}
 
 5) Я загрузила файлы на Github.
